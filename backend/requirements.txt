@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+edge-tts
+openai-whisper
+torch
+torchaudio
+moviepy==2.0.0.dev2
+httpx 

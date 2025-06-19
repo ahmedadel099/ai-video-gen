@@ -1,0 +1,2 @@
+# This file ensures that the outputs directory is tracked by Git
+# while the actual video files are ignored by .gitignore 
